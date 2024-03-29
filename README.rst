@@ -20,7 +20,7 @@ Click in three points:
 Installing
 ----------
 
-Install and update using `pip`_:
+Install and update using `pip`_
 
 .. code-block:: text
 
